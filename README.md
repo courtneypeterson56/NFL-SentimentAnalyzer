@@ -1,4 +1,1 @@
-Natural Language Processing Final Project /n
-Courtney Peterson, Erin Berg, John Whalen, Keith Carroll \n
-Boston College \n
-2019
+Natural Language Processing Final Project--Courtney Peterson, Erin Berg, John Whalen, Keith Carroll--Boston College--2019
