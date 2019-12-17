@@ -1,5 +1,6 @@
 import pandas as pd
 
+#getting data from the csv file with all the tweets and other data
 tweet_data = pd.read_csv('nfl_tweets_hydrate.csv')
 tweet_ids = tweet_data['id']
 tweets = tweet_data['text']
